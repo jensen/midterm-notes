@@ -39,9 +39,6 @@ app.get('/login/:id', (request, response) => {
 });
 ```
 
-### Deployment
-
-The two options are localhost and Heroku. If you are deploying to another server, then test this process early. You should only spend time on this if you have completed your most important features.
 
 ### ERD
 
@@ -262,5 +259,6 @@ app.get('/users/:id/photos', (request, response) => {
 
 In the case that I want to create a single page app, or even just query data from an api then this JSON response would be enough.
 
-## Bonus
+### Deployment
 
+The two options are localhost and Heroku. If you are deploying to another server, then test this process early. You should only spend time on this if you have completed your most important features.
