@@ -1,5 +1,7 @@
 # Midterm
 
+The slides and starter html files can be found at [https://github.com/jensen/midterm-notes/](https://github.com/jensen/midterm-notes/).
+
 ## Pick a Project
 
 - Wiki Map
