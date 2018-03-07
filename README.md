@@ -137,7 +137,7 @@ Use good git practices. Please.
 Do this together.
 
 - Setup GitHub repository with collaborators
-- Clone github.com/lighthouse-labs/node-skeleton
+- Clone [github.com/lighthouse-labs/node-skeleton](http://github.com/lighthouse-labs/node-skeleton)
 - Follow instructions in node-skeleton README
 - Make sure your app loads, check for console output
 - Commit and push changes to GitHub
